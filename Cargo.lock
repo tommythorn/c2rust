@@ -1816,3 +1816,8 @@ checksum = "56c1936c4cc7a1c9ab21a1ebb602eb942ba868cbd44a99cb7cdc5892335e1c85"
 dependencies = [
  "linked-hash-map",
 ]
+
+[[patch.unused]]
+name = "time"
+version = "0.3.36"
+source = "git+https://github.com/time-rs/time#866c3a0c795445b15bfcb18cb7f005827de0db1c"
